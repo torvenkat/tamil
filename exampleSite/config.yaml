@@ -28,7 +28,7 @@ Menus:
     - identifier: dropdown1
       title: Obama
       name: Nobel Prize
-      url: science/obama_nobel
+      url: science/Obama_nobel
       parent: dropdown
       weight: 1
     - identifier: dropdown2
