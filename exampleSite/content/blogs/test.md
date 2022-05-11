@@ -1,6 +1,6 @@
 ---
 title: "கண்விரியக் குழந்தை சொல்லும கதைகள்"
-date: 2022-05-10T23:29:21+05:30
+date: 2009-05-23T23:29:21+05:30
 draft: false
 github_link: "https://github.com/gurusabarish/hugo-profile"
 author: "வெங்கட்"
