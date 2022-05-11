@@ -39,7 +39,7 @@ Menus:
       weight: 2
 
 params:
-  title: "Hugo Profile"
+  title: "உள்ளும் புறமும்"
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
@@ -89,8 +89,8 @@ params:
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "Isabella."
-    subtitle: "I build things for the web"
+    title: "வெங்கட்ரமணன்"
+    subtitle: "I wirte articles"
     content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
     image: /images/hero.svg
     button:
