@@ -34,7 +34,7 @@ Menus:
     - identifier: dropdown2
       title: இலக்கியம்
       name: இலக்கியம்
-      url: literature/#
+      url: lit/#
       parent: dropdown
       weight: 2
 
