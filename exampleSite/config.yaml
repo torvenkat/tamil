@@ -15,7 +15,7 @@ markup:
 Menus:
   main:
     - identifier: blog
-      name: Blog
+      name: பதிவுகள்
       title: வலைப்பதிவுகள்
       url: /blogs
       weight: 1
