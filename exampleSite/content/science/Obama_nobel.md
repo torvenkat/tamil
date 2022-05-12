@@ -3,6 +3,7 @@
 layout: page
 title: ஒபாமாவுக்கு நோபெல் அமைதிப் பரிசு
 date: 2009-09-09T13:29:21+05:30
+author: Venkat Venkataramanan
 tags:
   - அ.முத்துலிங்க்கம்
   - இலக்கியம்
