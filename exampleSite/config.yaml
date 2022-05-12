@@ -16,7 +16,7 @@ Menus:
   main:
     - identifier: blog
       name: Blog
-      title: Blog posts
+      title: வலைப்பதிவுகள்
       url: /blogs
       weight: 1
 
