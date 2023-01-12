@@ -40,7 +40,7 @@ Menus:
 
 params:
   title: "உள்ளும் புறமும்"
-  description: Text about my cool site
+  description: அண்டையின் நிகழ்வும், அகத்தின் தெறிப்பும்
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
 
