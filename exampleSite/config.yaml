@@ -37,7 +37,12 @@ Menus:
       url: /literature
       parent: dropdown
       weight: 2
-
+    - identifier: dropdown3
+      title: humour
+      name: நகைச்சுவை
+      url: /humour
+      parent: dropdown
+      weight: 3
 params:
   title: "உள்ளும் புறமும்"
   description: அண்டையின் நிகழ்வும், அகத்தின் தெறிப்பும்
