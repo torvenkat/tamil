@@ -528,29 +528,3 @@ header .navbar {
 #contact .btn:focus {
     box-shadow: none !important;
 }
-
-#tags .tag-cloud-item {
-    margin: 0;
-    padding: 0;
-}
-  
-#tags  .tag-cloud-item li {
-    display: inline-block;
-    list-style: none;
-    padding: 0 15px 15px 0;
-}
-  
-#tags   .tag-cloud-item a {
-    text-decoration: none;
-    font-family: 'Lato', sans-serif;
-    font-weight: bold;
-    color: var(--dark-text-color);
-    transition: color 250ms;
-}
-  
-#tags  .tag-cloud-item a:hover,
-#tags  .tag-cloud-item a:active,
-#tags  .category-item a:hover,
-#tags  .category-item a:active {
-     color: var(--middle-text-color);
-  }
