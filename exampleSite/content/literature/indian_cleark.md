@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "புத்தக விமர்சனம் : The Indian Clerk"
 date: 2008-03-12T10:12:21+05:30
 draft: false
