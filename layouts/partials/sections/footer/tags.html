@@ -2,11 +2,16 @@
     <div class="row justify-content-center">
         <div class="col-md-4 text-center">
             <aside class="tags"></aside>
-            <h4>தலைப்புகள்</h4>
+            <h3>தலைப்புகள்</h3>
             <ul class="tags-ul list-unstyled list-inline">
                 {{ range .Site.Taxonomies.tags }}
                 <li class="list-inline-item"><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> {{ .Count }}</li>
                 {{ end }}
+            </ul>
+            <ul class="tags-ul list-unstyled list-inline">
+                {{range .Params.tags}}
+                <li class="list-inline-item"><a href="{{`tags` | absURL}}/{{.| urlize}}" target="_blank">{{.}}</a></li>
+                {{end}}
             </ul>
             </aside>
         </div>
