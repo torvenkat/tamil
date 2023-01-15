@@ -529,28 +529,3 @@ header .navbar {
     box-shadow: none !important;
 }
 
-#tag-cloud-item {
-    margin: 0;
-    padding: 0;
-  }
-  
-#tag-cloud-item li {
-    display: inline-block;
-    list-style: none;
-    padding: 0 15px 15px 0;
-  }
-  
-#tag-cloud-item a {
-    text-decoration: none;
-    font-family: 'Lato', sans-serif;
-    font-weight: bold;
-    color: var(--dark-text-color);
-    transition: color 250ms;
-  }
-  
-#tag-cloud-item a:hover,
-#tag-cloud-item a:active,
-#category-item a:hover,
-#category-item a:active {
-     color: var(--middle-text-color);
-  }
