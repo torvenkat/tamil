@@ -43,6 +43,12 @@ Menus:
       url: /humour
       parent: dropdown
       weight: 3
+    - identifier: dropdown4
+      title: music
+      name: இசை
+      url: /music
+      parent: dropdown
+      weight: 4
 params:
   title: "உள்ளும் புறமும்"
   description: அண்டையின் நிகழ்வும், அகத்தின் தெறிப்பும்
