@@ -19,7 +19,7 @@ Menus:
       title: வலைப்பதிவுகள்
       url: /blogs
       weight: 1
-
+    disableContact: false
     #Dropdown menu
     - identifier: dropdown
       title: Example dropdown menu
