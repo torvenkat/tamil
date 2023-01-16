@@ -48,6 +48,12 @@ Menus:
       url: /music
       parent: dropdown
       weight: 4
+    - identifier: dropdown5
+      title: sports
+      name: விளையாட்டு
+      url: /sports
+      parent: dropdown
+      weight: 5    
 params:
   title: "உள்ளும் புறமும்"
   description: அண்டையின் நிகழ்வும், அகத்தின் தெறிப்பும்
