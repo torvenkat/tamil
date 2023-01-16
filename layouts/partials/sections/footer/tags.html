@@ -1,8 +1,8 @@
-<div class="container py-4">
-    <div class="row justify-content-center">
-        <div class="col-md-4 text-center">
-            <aside class="tags">
-                <h3>தலைப்புகள்</h3>
+<section id="education" class="py-5">
+    <div class="container">
+        <h3 class="text-center">தலைப்புகள்</h3>
+        <div class="row justify-content-center py-5">
+            <div class="col-md-4 text-center">
                 {{ if ne (len $.Site.Taxonomies.tags) 0 }}
                 {{ $largestFontSize := 1.4 }}
                 {{ $smallestFontSize := 1.0 }}
@@ -22,7 +22,7 @@
                 </a>
                 {{ end }}
                 {{ end }}
-            </aside>
+            </div>
         </div>
     </div>
-</div>
+</section>
