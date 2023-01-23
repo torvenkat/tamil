@@ -4,6 +4,7 @@ title: ஐன்ஸ்டைனின் மனைவி
 date: 2023-01-11T15:29:21+05:30
 author: வெங்கட்ரமணன்
 image: /images/MilevaEinstein.png
+mathjax: true
 toc:
 tags:
   - அறிவியல்
