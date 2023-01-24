@@ -26,7 +26,7 @@ tags:
 
 ## சர்ச்சைகள்
 
-ஐன்ஸ்டைனின் மறைவிற்குப் பிறகு வெளியான "காதல் கடிதங்கள்" (மிலேவாவுக்கும் ஐன்ஸ்டைனுக்கும் இடையில் நடந்த கடிதப் பரிமாற்றங்கள்) பலத்த சர்ச்சையை உண்டுபண்ணியிருக்கின்றன. ஐன்ஸ்டைனின் புகழில் மிலேவாவின் உரிய இடம் மறுக்கப்பட்டிருக்கிறது என்ற கருத்தை முதன் முதலில் வெளியிட்டவர் தெஸான்கா த்ர்புஹோவிச்-கியூரிச் (Desanka Trbuhovic-Gjuric) என்ற பெண், ஆல்பர்ட் ஐன்ஸ்டனின் நிழலில் (In the Shadow of Albert Einstein) என்று தலைப்பிடப்பட்ட இந்தப் புத்தகத்தில் சார்நிலை குறித்த முடிவுகள் பெரும்பாலும் மிலேவாவினுடையவை என்று தொனிக்க எழுதப்பட்டிருந்தன. ஆனால் துரதிருஷ்டவசமாக தெஸான்காவின் தரவுகள் எல்லாமே வாழ்வழிச் சான்றுகள்தான். 
+ஐன்ஸ்டைனின் மறைவிற்குப் பிறகு வெளியான "காதல் கடிதங்கள்" (மிலேவாவுக்கும் ஐன்ஸ்டைனுக்கும் இடையில் நடந்த கடிதப் பரிமாற்றங்கள்) பலத்த சர்ச்சையை உண்டுபண்ணியிருக்கின்றன. ஐன்ஸ்டைனின் புகழில் மிலேவாவின் உரிய இடம் மறுக்கப்பட்டிருக்கிறது என்ற கருத்தை முதன் முதலில் வெளியிட்டவர் தெஸான்கா த்ர்புஹோவிச்-கியூரிச் (Desanka Đurić-Trbuhović) என்ற பெண், ஆல்பர்ட் ஐன்ஸ்டனின் நிழலில் (In the Shadow of Albert Einstein) என்று தலைப்பிடப்பட்ட இந்தப் புத்தகத்தில் சார்நிலை குறித்த முடிவுகள் பெரும்பாலும் மிலேவாவினுடையவை என்று தொனிக்க எழுதப்பட்டிருந்தன. ஆனால் துரதிருஷ்டவசமாக தெஸான்காவின் தரவுகள் எல்லாமே வாழ்வழிச் சான்றுகள்தான். 
 
 ஆனால், இதுவே பலருக்கும் போதுமானதாக இருந்தது; அவர்கள் இதைத் துவக்கமாகக் கொண்டு ஐன்ஸ்டைன் சம்பந்தப்பட்ட அனைத்து உரையாடல்கள், புகைப்படங்கள், ஆய்வுக் கட்டுரைகள் போன்றவற்றைத் துருவி ஆராயத் தொடங்கினார்கள். ஐன்ஸ்டைன்-மிலேவா காதல் கடிதங்கள் பதிப்பிக்கப்பட்ட பொழுது அவற்றில் பல இடங்களில் "நம்முடைய ஆராய்ச்சி", "நம் கண்டுபிடிப்புகள்", "நம் கருத்துகள்" என்ற பதங்கள் ஐன்ஸ்டைனால் எழுதப்பட்டிருந்தது கண்டுபிடிக்கப்பட்டது. 
 
@@ -96,12 +96,22 @@ tags:
 
 1. Albert Einstein and Mileva Maric: A Colloboration that Failed to Develop, John Stachel, in Einstein from 'B' to 'Z', Einstein Studies Vol. 9, Birkhauser, New York. 
 2. Einstein's Wife, A documentary film, produced by Paul Humfress and David Davis, for Public Broadcasting Service (PBS). Available as DVD through http://www.pbs.org
-3. The private lives of Albert Einstein, Roger Highfiled and Paul Carter, Faber and Faber, London. 
-4. Subtle is the Lord...the Science and Life of Albert Einstein, Abraham Pais, Oxford University Press, Oxford. 
-5. A. Einstein - Images and Impact, The Center for History of Physics, American Institute of Physics, http://www.aip.org/history/einstein/
-6. ஐன்ஸ்டைனின் அற்புத ஆண்டான 1905ன் நூற்றாண்டாக, 2005ஆம் ஆண்டு உலக அளவில் இயற்பியல் ஆண்டாகக் கொண்டாடப்படுகிறது. தமிழில் இது குறித்த விபரங்கள், தகவல்கள், சுவையான கட்டுரைகளை இயற்பியல்::2005 (http://iyarpiyal.org) தளத்தில் காணலாம். 
+3. In Albert's Shadow: The Life and Letters of Mileva Maric, Einstein's First Wife, Milan Popovic, The Johns Hopkins University Press; 1st edition (September 29, 2003)
+4. The private lives of Albert Einstein, Roger Highfiled and Paul Carter, Faber and Faber, London. 
+5. Subtle is the Lord...the Science and Life of Albert Einstein, Abraham Pais, Oxford University Press, Oxford. 
+6. A. Einstein - Images and Impact, The Center for History of Physics, American Institute of Physics, http://www.aip.org/history/einstein/
+7. ஐன்ஸ்டைனின் அற்புத ஆண்டான 1905ன் நூற்றாண்டாக, 2005ஆம் ஆண்டு உலக அளவில் இயற்பியல் ஆண்டாகக் கொண்டாடப்படுகிறது. தமிழில் இது குறித்த விபரங்கள், தகவல்கள், சுவையான கட்டுரைகளை இயற்பியல்::2005 (http://iyarpiyal.org) தளத்தில் காணலாம். (தற்பொழுது இந்தத் தளம் செயலில் இல்லை)
 
+## மேலதிகத் தகவல்கள்
+
+(நான் இந்தக் கட்டுரையை எழுதிய பின்னர் வெளியான கட்டுரைகளும் புத்தகங்களும்)
+
+1. Einstein’s Wife: The Real Story of Mileva Einstein-Marić Allen Esterson & David C. Cassidy, with Ruth Lewin Sime MIT Press (2019)
+2. The debated legacy of Einstein’s first wife, Ann Finkbeiner, Nature 567, 28-29 (2019), doi: https://doi.org/10.1038/d41586-019-00741-6
+3. Getting to know Mileva Marić, Alberto A. Martínez, Physics Today 72, 7, 53 (2019); https://doi.org/10.1063/PT.3.4251
+4. Science Secrets, The Truth about Darwin's Finches, Einstein's Wife, and Other Myths, Alberto A. Martinez, University of Pittsburgh Press, Year: 2011
 
 --
 முதல் பதிப்பு: 07 பெப்ருவரி 2005
+
 Image: Einstein couple in Prague, 1912, Copyright: ETH-Bibliothek Zürich, Bildarchiv / Fotograf: Langhans, Jan F. / Portr_03106 / Public Domain Mark, DOI Link: http://doi.org/10.3932/ethz-a-000045751
