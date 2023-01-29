@@ -3,6 +3,7 @@ title: "அல்லிக் குளத்தருகே"
 date: 2023-01-29T18:39:21+05:30
 draft: false
 author: "வெங்கட்ரமணன்"
+image: /images/neon_planets.jpg
 tags:
   - நனவோடை
 description: ""
