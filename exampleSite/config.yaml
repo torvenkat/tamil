@@ -93,14 +93,30 @@ params:
   #   brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
   #   brandName: "Profile" # Brand name for the brand | default is the title variable
 
-  #   menus:
+     menus:
   #     disableAbout: true
   #     disableExperience: true
-  #     disableEducation: true
+      disableEducation: false
   #     disableProjects: true
   #     disableAchievements: true
   #     disableContact: true
 
+  # Education
+  education:
+    enable: true
+    # title: "Custom Name"
+    index: false
+    items:
+      - title: "Master of Business Administration"
+        school:
+          name: "University of California, Berkeley"
+          url: "https://example.org"
+        date: "2013 - 2015"
+        GPA: "3.8 out of 5.0"
+        content: |-
+          Extracurricular Activities
+            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
 
   footer:
     # recentPosts: false
