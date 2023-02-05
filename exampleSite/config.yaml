@@ -103,9 +103,9 @@ params:
   #     disableContact: true
 
   #Education
-  உதவி:
+  education:
     enable: true
-    # title: "Custom Name"
+    title: "உதவி"
     index: false
     items:
       - title: "உங்கள் கருத்துகள் வரவேற்கப்படுகின்றன."
