@@ -54,6 +54,7 @@ Menus:
       url: /sports
       parent: dropdown
       weight: 5    
+  disableEducation: false    
 params:
   title: "உள்ளும் புறமும்"
   description: அண்டையின் நிகழ்வும், அகத்தின் தெறிப்பும்
@@ -93,10 +94,10 @@ params:
   #   brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
   #   brandName: "Profile" # Brand name for the brand | default is the title variable
 
-     menus:
+  #menus:
   #     disableAbout: true
   #     disableExperience: true
-      disableEducation: false
+  #  disableEducation: false
   #     disableProjects: true
   #     disableAchievements: true
   #     disableContact: true
