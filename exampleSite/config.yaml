@@ -54,7 +54,7 @@ Menus:
       url: /sports
       parent: dropdown
       weight: 5    
-  disableEducation: false    
+ 
 params:
   title: "உள்ளும் புறமும்"
   description: அண்டையின் நிகழ்வும், அகத்தின் தெறிப்பும்
