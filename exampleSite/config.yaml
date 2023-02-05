@@ -103,7 +103,7 @@ params:
   #     disableContact: true
 
   #Education
-  education:
+  உதவி:
     enable: true
     # title: "Custom Name"
     index: false
