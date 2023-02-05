@@ -102,8 +102,8 @@ params:
   #     disableAchievements: true
   #     disableContact: true
 
-  # Education
-  education:
+  #Education
+  உதவி:
     enable: true
     # title: "Custom Name"
     index: false
