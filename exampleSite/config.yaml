@@ -108,17 +108,17 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Master of Business Administration"
+      - title: "உதவி"
         school:
-          name: "University of California, Berkeley"
-          url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
+          name: ""
+          url: ""
+        date: ""
+        GPA: ""
         content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-
+          உங்கள் கருத்துகள் வரவேற்கப்படுகின்றன.
+            - இத்தளத்தில் வெளியாகும் ஆக்கங்கள் குறித்த உங்கள் கருத்துகள் வரவேற்கப்படுகின்றன. உங்களுடைய பிற சமூக வலைத்தளங்கள் வழியாக நுழைவை உறுதி செய்தபின் நேரடியாகக் கருத்துகளை எழுதலாம். 
+            - அடையாளம் காட்டாமல் பெயரிலியாகக் கருத்து எழுதுவதும் சாத்தியம். 
+            - மேலதிக உதவிவிக்கு: 
   footer:
     # recentPosts: false
     socialNetworks:
